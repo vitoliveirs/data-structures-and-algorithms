@@ -1,0 +1,6 @@
+char %c
+string %s
+int %d
+long %ld
+float %f
+double %lf
